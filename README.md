@@ -8,7 +8,7 @@ Este desarrollo forma parte de mi aprendizaje de JavaScript y está enfocado en 
 
 ## 🚀 Demo
 
-🔗 [Ver aplicación en GitHub Pages](https://cristhiancyhr.github.io/crm-indexeddb-js/)
+🔗 [Ver aplicación en GitHub Pages](https://cristhianychr.github.io/crm-indexeddb-js/)
 
 ## 📸 Vista previa
 
