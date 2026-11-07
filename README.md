@@ -120,5 +120,5 @@ También practiqué la implementación de operaciones CRUD, el manejo de transac
 
 Proyecto desarrollado como parte de mi formación práctica en JavaScript y desarrollo web.
 
-Cristhian Chanamé
+**Cristhian Chanamé**  
 Estudiante de Ingeniería de Software.
